@@ -1,0 +1,15 @@
+[ {
+  "id" : 1,
+  "client_id" : 1,
+  "client_name" : "eqweqw",
+  "client_companyname" : "qweqw",
+  "client_industry" : "wew",
+  "client_revenue" : 22.0
+}, {
+  "id" : 2,
+  "client_id" : 2,
+  "client_name" : "wee",
+  "client_companyname" : "eww",
+  "client_industry" : "ew",
+  "client_revenue" : 1200.0
+} ]
